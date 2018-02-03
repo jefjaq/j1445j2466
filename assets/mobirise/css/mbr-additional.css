@@ -16395,6 +16395,26 @@ body {
     margin-bottom: 1.5rem;
   }
 }
+.cid-qIAS3u1uQd {
+  padding-top: 120px;
+  padding-bottom: 0px;
+  background-color: #3fc8f9;
+}
+.cid-qIAS3u1uQd .container-fluid {
+  padding: 0 3rem;
+}
+.cid-qIAS3u1uQd .media-container-column {
+  padding: 0 2rem;
+}
+.cid-qIAS3u1uQd .mbr-section-title {
+  display: inline-block;
+  position: relative;
+}
+@media (max-width: 767px) {
+  .cid-qIAS3u1uQd .container-fluid {
+    padding: 0 1rem;
+  }
+}
 .cid-qIv1YGuEpn .dropdown-item:before {
   font-family: MobiriseIcons !important;
   content: '\e966';
@@ -16731,7 +16751,7 @@ body {
   }
 }
 .cid-qHTaMABR3Z {
-  padding-top: 120px;
+  padding-top: 0px;
   padding-bottom: 15px;
   background-color: #000000;
 }
